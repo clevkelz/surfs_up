@@ -7,7 +7,7 @@ An analysis was conducted to determine if weather patterns in Oahu support the o
 
 The data collected originated from nine weather stations in Hawaii, mostly on the Island of Oahu.  The following table sorts these stations by the frequency of observations made during the time period.
 
-|Station Number[^1]|Location (including island)|Number of Observations|
+|Station Number[^1]|Location (including island)|Number of Observations[^2]|
 |--------------|---------------------------|----------------------|
 |USC00519281|Waihee, Maui|2,772|
 |USC00519397|Waikiki, Oahu|2,724|
@@ -21,3 +21,4 @@ The data collected originated from nine weather stations in Hawaii, mostly on th
 
 
 [^1]: The metadata related to weather recording stations can be found on the National Centers for Environmental Information, which is part of the National Oceanic and Atmospheric Administration: https://www.ncei.noaa.gov/pub/data/ghcn/daily/ghcnd-stations.txt
+[^2]:  The code to obtain the number of observations for each station is found in the Climate Analysis Jupyter Notebook file in this repository.  See: https://github.com/clevkelz/surfs_up/blob/main/climate_analysis.ipynb
