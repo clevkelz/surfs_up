@@ -17,7 +17,29 @@ The data collected originated from nine weather stations in Hawaii, mostly on th
 |USC00514830|Kualoa Ranch, Oahu|2,202|
 |USC00511918|Honolulu, Oahu|1,979|
 |USC00517948|Pearl City, Oahu|1,372|
-|USC00518838|Upeer Wahiawa, Oahu|511|
+|USC00518838|Upper Wahiawa, Oahu|511|
+
+This table shows that there are sufficient data observations from which to draw a conclusion.  Although some stations have more limited data, five of the nine stations have a least 2,500 observations over the time period.
+
+## Results
+
+The following two screenshots show summary statistics for temperature readings, including the average, minimum, and maximum temperatures, in June and December.
+
+_June_
+
+![image](https://user-images.githubusercontent.com/106293233/182980680-4559c66b-1091-47fc-8071-c0a665b98572.png)
+
+_December_
+
+![image](https://user-images.githubusercontent.com/106293233/182980740-643b081f-b86e-4a7f-970a-b5fdca1b434d.png)
+
+The results reveal the following:
+- The average temperature for both months tops 70º, indicating that expected temperature throughout the year does not vary much and would likely support the demand for surfing materials and ice cream year round.
+- The standard deviation for temperatures is somewhat higher in December than in June which shows that temperatures vary more in the latter part of the year but this difference is not large.  Although there will probably be more inclement days in December, the historical data shows that there are still enough nice days during that time to sustain operations.
+- The maximum temperature for both months is almost the same (85º in June and 83º in December).  Extreme temperatures on the high end (for example, greater than 95º) could negatively impact demand but perhaps not to the extent as temperatures on the low-end.  This supports the other two points made in this section; that is, weather around Oahu is consistently nice throughout the year.
+
+
+
 
 
 [^1]: The metadata related to weather recording stations can be found on the National Centers for Environmental Information, which is part of the National Oceanic and Atmospheric Administration: https://www.ncei.noaa.gov/pub/data/ghcn/daily/ghcnd-stations.txt
