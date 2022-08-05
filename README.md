@@ -54,11 +54,13 @@ _December_
 
 ![image](https://user-images.githubusercontent.com/106293233/182982622-c4ef08e4-cc09-40ba-ae59-ba07c737cacf.png)
 
+There is a greater variance in precipitation data between the two months as compared to the temperature data.  While the mean is not greatly different for the two months, the standard deviation is higher.  While less than .02 inches and .03 inches of rain occurred in June and December, respectively, for most days, the maximum amount was significantly higher in December (almost 6.5 inches in December compared to around 4.5 inches in June).  The rainy season in Hawaii occurs from November to March[^3]. The additional expected rainfall during the rainy season may impact demand. However, when considering that at least three-quarters of the days for both months had fewer than .15 inches, there is still quite a good chance that most days will be ideal for surfing and ice cream.
 
+### Conclusion
 
-
-
-
+The temperature data from June and December demonstrate that the weather is consistently nice throughout the year.  While there is more variation in rainfall, especially in the rainy season, precipitation levels are still relatively low. This stability should provide sufficient demand for surfing and ice cream to support a successful launch. 
 
 [^1]: The metadata related to weather recording stations can be found on the National Centers for Environmental Information, which is part of the National Oceanic and Atmospheric Administration: https://www.ncei.noaa.gov/pub/data/ghcn/daily/ghcnd-stations.txt
 [^2]:  The code to obtain the number of observations for each station is found in the Climate Analysis Jupyter Notebook file in this repository.  See: https://github.com/clevkelz/surfs_up/blob/main/climate_analysis.ipynb
+[^3]: https://www.frommers.com/destinations/hawaii/planning-a-trip/when-to-go
+
