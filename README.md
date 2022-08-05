@@ -38,6 +38,24 @@ The results reveal the following:
 - The standard deviation for temperatures is somewhat higher in December than in June which shows that temperatures vary more in the latter part of the year but this difference is not large.  Although there will probably be more inclement days in December, the historical data shows that there are still enough nice days during that time to sustain operations.
 - The maximum temperature for both months is almost the same (85º in June and 83º in December).  Extreme temperatures on the high end (for example, greater than 95º) could negatively impact demand but perhaps not to the extent as temperatures on the low-end.  This supports the other two points made in this section; that is, weather around Oahu is consistently nice throughout the year.
 
+## Summary
+
+### Supplemental Analysis
+
+While weather patterns on their own support the opening of the combined surfing/ice cream venture, the precipitation amounts should also be considered as rain levels could impact demand.  People may be less willing to surf and enjoy ice cream under rainy conditions. 
+
+Summary statistics were prepared for precipitation levels for June and December as shown below:
+
+_June_
+
+![image](https://user-images.githubusercontent.com/106293233/182982107-58ce7d3e-36c5-4ccb-b638-a614f63ed74c.png)
+
+_December_
+
+![image](https://user-images.githubusercontent.com/106293233/182982622-c4ef08e4-cc09-40ba-ae59-ba07c737cacf.png)
+
+
+
 
 
 
